@@ -1,0 +1,288 @@
+Eden
+Edgeworth-Kuiper belt
+Hall of Fame
+Kuiper belt
+Papua
+Roman building
+Shangri-la
+Sind
+abattoir
+aerospace
+air
+airfield
+apartment building
+apartment house
+arboretum
+architecture
+assembly
+asterism
+athletic facility
+atmosphere
+aviary
+backroom
+backwater
+badlands
+bagnio
+barrio
+bathhouse
+bathing machine
+bawdyhouse
+bay
+belt
+biosphere
+bird sanctuary
+black body
+black hole
+blackbody
+boatyard
+body
+bordello
+botanical garden
+bottom
+bottomland
+bowling alley
+briny
+brothel
+butchery
+cafeteria facility
+carpet
+casino-hotel
+cathouse
+celestial body
+center
+centre
+channel
+chapterhouse
+club
+clubhouse
+coastland
+cocoon
+colony
+communication equipment
+communication system
+consolidation
+constellation
+conurbation
+cosmos
+county
+course
+cover
+covering
+creation
+crossing
+cultivated land
+dead body
+dead room
+deep space
+deposit
+depositary
+depository
+depth
+distance
+dorm
+dormitory
+drink
+drive-in
+eatery
+eating house
+eating place
+embayment
+estraterrestrial body
+estuary
+existence
+exterior
+extraterrestrial object
+extremity
+falls
+farm building
+farmland
+feedlot
+field
+firetrap
+flowage
+flying field
+ford
+forum
+full radiator
+gambling den
+gambling hell
+gambling house
+gaming house
+gas system
+gazebo
+glasshouse
+government building
+greenhouse
+greensward
+grid
+gulf
+hall
+hatchery
+health facility
+healthcare facility
+heaven
+heavenly body
+heliosphere
+hell
+hell on earth
+hellhole
+high sea
+hotel
+hotel-casino
+house
+house of God
+house of ill repute
+house of prayer
+house of prostitution
+house of worship
+inferno
+inlet
+inside
+intergalactic space
+interior
+international waters
+interplanetary space
+interstellar space
+ionosphere
+lake
+landing field
+layer
+library
+macrocosm
+main
+mansion
+mare
+maria
+mechanism
+medical building
+meeting place
+megalopolis
+menagerie
+mid-water
+military installation
+ministry
+morgue
+mortuary
+municipality
+natural covering
+nest
+new town
+nirvana
+nursery
+observatory
+ocean
+office block
+office building
+offing
+opium den
+organic structure
+outbuilding
+outside
+overburden
+packinghouse
+paradise
+permafrost
+physical structure
+place of worship
+planetarium
+planetary house
+plant part
+plant structure
+ploughland
+plowland
+polder
+polynya
+pool
+power grid
+power system
+presbytery
+promised land
+puddle
+radiator
+radius
+range
+rangeland
+recess
+recreation facility
+recreational facility
+repository
+residence hall
+rest house
+restaurant
+rink
+rock
+rotunda
+ruin
+sample
+sanctuary
+scablands
+school
+schoolhouse
+sea
+seven seas
+sewage system
+sewage works
+sewer system
+shallow
+shambles
+shoal
+shooting gallery
+side
+sign
+sign of the zodiac
+signal box
+signal tower
+skating rink
+skyscraper
+slaughterhouse
+snake pit
+sod
+sound
+source
+sporting house
+sprawl
+star sign
+station
+stone
+stream
+student residence
+student union
+summerhouse
+sward
+tangle
+tap house
+tavern
+telco building
+telecom hotel
+temple
+territorial waters
+the pits
+theater
+theatre
+tillage
+tilled land
+tilth
+top
+transit
+transportation
+transportation system
+turf
+universe
+urban sprawl
+utility
+vacuity
+vacuum
+volary
+water
+water supply
+water system
+watercourse
+waterfall
+waterway
+wetland
+whorehouse
+world
+zodiac
+zone
+zoo
+zoological garden
