@@ -1,0 +1,1107 @@
+{
+  "abbey": ["tu viện"],
+  "airfield": ["sân bay"],
+  "airplane cabin": ["khoang máy bay"],
+  "airport terminal": ["nhà ga sân bay"],
+  "alcove": ["góc tường"],
+  "alley": ["ngõ"],
+  "amphitheater": ["sân khấu hình tròn"],
+  "amusement arcade": ["trung tâm giải trí điện tử"],
+  "amusement park": ["công viên giải trí"],
+  "anechoic chamber": ["phòng cách âm"],
+  "aquarium": ["thủy cung"],
+  "aqueduct": ["cầu dẫn nước"],
+  "arcade": ["hàng lang"],
+  "arch": ["đường mái vòm"],
+  "archaelogical excavation": ["khu khai quật khảo cổ"],
+  "archive": ["kho lưu trữ"],
+  "army base": ["căn cứ quân sự"],
+  "art gallery": ["phòng triển lãm nghệ thuật"],
+  "art school": ["trường nghệ thuật"],
+  "art studio": ["studio nghệ thuật"],
+  "artists loft": ["không gian sáng tạo"],
+  "asia temple": ["đền thờ á châu"],
+  "assembly line": ["dây chuyền lắp ráp"],
+  "attic": ["gác mái"],
+  "auditorium": ["khán phòng"],
+  "auto factory": ["nhà máy sản xuất ô tô"],
+  "auto showroom": ["showroom xe hơi"],
+  "backseat car interior": [
+    "nội thất ghế sau xe hơi",
+    "khoang hành khách sau xe",
+    "ghế ngồi sau xe"
+  ],
+  "badlands": ["vùng đất xấu", "vùng đất hoang vu", "vùng đất cằn cỗi"],
+  "baggage claim": [
+    "khu vực nhận hành lý",
+    "dây chuyền hành lý",
+    "quầy nhận hành lý"
+  ],
+  "ball pit": ["hồ bóng", "vũng bóng", "bể bóng"],
+  "ballroom": ["phòng khiêu vũ", "phòng khiêu vũ lớn", "sảnh khiêu vũ"],
+  "bamboo forest": ["rừng tre", "khu rừng tre", "vườn tre"],
+  "bank vault": ["kho bạc", "kho tiền", "cửa hầm bảo mật"],
+  "banquet hall": ["sảnh tiệc", "hội trường tiệc", "phòng tiệc"],
+  "bar": ["quầy bar", "cửa hàng bar", "quán rượu"],
+  "barn": ["chuồng trại", "kho chứa nông sản", "nhà kho"],
+  "barndoor": ["cửa nhà kho", "cửa chuồng", "cửa nhà kho trượt"],
+  "barrel storage wine cellar": [
+    "kho rượu thùng",
+    "nhà hầm rượu thùng",
+    "kho chứa rượu trong thùng"
+  ],
+  "baseball field": [
+    "sân bóng chày",
+    "sân vận động bóng chày",
+    "khu vực chơi bóng chày"
+  ],
+  "baseball stadium": [
+    "sân vận động bóng chày",
+    "sân bóng chày",
+    "sân chơi bóng chày"
+  ],
+  "basement": ["tầng hầm", "hầm", "hầm nhà"],
+  "basilica": ["nhà thờ lớn", "thánh đường", "nhà thờ chính tòa"],
+  "bathroom": ["phòng tắm", "nhà vệ sinh", "căn phòng tắm"],
+  "batters box": ["hộp đánh bóng", "vị trí đánh bóng", "khu vực đánh bóng"],
+  "bayou": ["vũng lầy", "sông ngòi nhỏ", "khu vực đầm lầy"],
+  "beach": ["bãi biển", "biển", "bờ biển"],
+  "beach house": ["nhà nghỉ biển", "nhà trên bãi biển", "biệt thự biển"],
+  "beauty salon": ["salon làm đẹp", "spa", "cửa hàng làm đẹp"],
+  "bedchamber": ["phòng ngủ", "phòng nghỉ", "căn phòng ngủ"],
+  "bedroom": ["phòng ngủ", "phòng nghỉ", "căn phòng ngủ"],
+  "beer garden": ["vườn bia", "khu vườn bia", "nơi uống bia ngoài trời"],
+  "beer hall": ["quán bia", "phòng bia", "nhà bia"],
+  "berth": ["bến tàu", "chỗ neo đậu", "vị trí đậu tàu"],
+  "biology laboratory": [
+    "phòng thí nghiệm sinh học",
+    "lab sinh học",
+    "phòng thực hành sinh học"
+  ],
+  "block waterfall": [
+    "thác nước khối",
+    "thác nước bậc thang",
+    "thác nước dạng khối"
+  ],
+  "boardwalk": [
+    "lối đi bộ trên biển",
+    "bến đi dạo trên biển",
+    "con đường đi bộ ven biển"
+  ],
+  "boat deck": ["boong thuyền", "sàn thuyền", "phần trên của thuyền"],
+  "boathouse": ["nhà thuyền", "nhà kho thuyền", "căn nhà chứa thuyền"],
+  "bookstore": ["hiệu sách", "cửa hàng sách", "nơi bán sách"],
+  "botanical garden": ["vườn bách thảo", "vườn thực vật", "vườn cây thuốc"],
+  "bottle storage wine cellar": [
+    "kho rượu chai",
+    "nhà kho rượu",
+    "kho rượu chai"
+  ],
+  "bowling alley": ["hành lang bowling", "sân bowling", "khu bowling"],
+  "boxing ring": [
+    "vòng đấu quyền anh",
+    "sân đấu quyền anh",
+    "vòng thi đấu quyền anh"
+  ],
+  "bridge": ["cầu", "cây cầu", "cầu vượt"],
+  "broadleaf forest": ["rừng lá rộng", "rừng cây lá rộng", "rừng lá bản"],
+  "building facade": [
+    "mặt tiền tòa nhà",
+    "mặt ngoài tòa nhà",
+    "vẻ ngoài tòa nhà"
+  ],
+  "bullring": ["sân đấu bò", "vòng đấu bò", "sân đấu bò tót"],
+  "burial chamber": ["phòng mộ", "lăng mộ", "buồng mộ"],
+  "bus interior": [
+    "nội thất xe buýt",
+    "bên trong xe buýt",
+    "không gian xe buýt"
+  ],
+  "butchers shop": ["cửa hàng thịt", "chợ thịt", "quầy thịt"],
+  "butte": ["núi đá", "đồi đá", "núi nhọn"],
+  "cafeteria": ["quán ăn tự phục vụ", "nhà ăn tập thể", "quán ăn tự chọn"],
+  "campsite": ["khu cắm trại", "địa điểm cắm trại", "trại trại"],
+  "campus": ["khuôn viên trường", "khu đại học", "khu trường học"],
+  "candy store": ["cửa hàng kẹo", "quầy kẹo", "cửa hàng bánh kẹo"],
+  "canyon": ["hẻm núi", "thung lũng sâu", "hẻm vực"],
+  "car interior": ["nội thất xe hơi", "bên trong xe hơi", "không gian xe hơi"],
+  "carrousel": ["xe xoay ngựa", "xe ngựa gỗ xoay vòng", "xe ngựa xoay"],
+  "castle": ["lâu đài", "pháo đài", "cung điện"],
+  "catacomb": ["hang hầm mộ", "hầm mộ", "ngôi mộ ngầm"],
+  "cemetery": ["nghĩa trang", "mộ địa", "nơi chôn cất"],
+  "chalet": ["nhà gỗ vùng núi", "nhà nghỉ vùng cao", "nhà kiểu thụy sĩ"],
+  "cheese factory": [
+    "nhà máy sản xuất pho mát",
+    "xưởng chế biến pho mát",
+    "nơi làm pho mát"
+  ],
+  "chemistry lab": [
+    "phòng thí nghiệm hóa học",
+    "laboratoire hóa học",
+    "phòng hóa"
+  ],
+  "childs room": ["phòng trẻ em", "phòng của bé", "phòng nhỏ"],
+  "classroom": ["phòng học", "lớp học", "phòng giảng dạy"],
+  "clean room": ["phòng sạch", "phòng vô trùng", "phòng kiểm soát môi trường"],
+  "cliff": ["vách đá", "bờ vực", "mỏm đá"],
+  "closet": ["tủ quần áo", "phòng đựng đồ", "ngăn tủ"],
+  "clothing store": ["cửa hàng quần áo", "shop thời trang", "nơi bán quần áo"],
+  "coast": ["bờ biển", "vùng ven biển", "bờ sông"],
+  "cockpit": ["buồng lái", "ghế lái", "khoang điều khiển"],
+  "coffee shop": ["quán cà phê", "tiệm cà phê", "cửa hàng cà phê"],
+  "computer room": ["phòng máy tính", "phòng vi tính", "phòng xử lý dữ liệu"],
+  "conference center": [
+    "trung tâm hội nghị",
+    "khu hội nghị",
+    "nơi tổ chức hội nghị"
+  ],
+  "conference room": ["phòng hội nghị", "phòng họp", "phòng thảo luận"],
+  "construction site": [
+    "công trường xây dựng",
+    "khu vực thi công",
+    "nơi xây dựng"
+  ],
+  "control room": ["phòng điều khiển", "phòng trung tâm", "phòng quản lý"],
+  "coral reef underwater": [
+    "rạn san hô dưới nước",
+    "vùng san hô",
+    "thềm san hô"
+  ],
+  "corn field": ["ruộng ngô", "cánh đồng ngô", "vườn ngô"],
+  "corral": ["chuồng bò", "chuồng gia súc", "bãi chăn thả"],
+  "corridor": ["hành lang", "lối đi", "dãy hành lang"],
+  "cottage": ["nhà tranh", "nhà nhỏ", "nhà gỗ"],
+  "cottage garden": ["vườn nhà tranh", "vườn nhỏ", "vườn trước nhà"],
+  "courthouse": ["toà án", "tòa nhà tòa án", "tòa nhà luật pháp"],
+  "courtroom": ["phòng xử án", "phòng tòa", "phòng xét xử"],
+  "courtyard": ["sân trong", "sân vườn", "sân nhà"],
+  "creek": ["suối nhỏ", "con lạch", "dòng suối nhỏ"],
+  "crevasse": ["khe nứt", "hẻm vực", "khe nứt băng"],
+  "crosswalk": [
+    "vạch dành cho người đi bộ",
+    "vạch băng ngang",
+    "làn đường dành cho người đi bộ"
+  ],
+  "cultivated field": [
+    "cánh đồng trồng trọt",
+    "ruộng đất canh tác",
+    "cánh đồng gieo trồng"
+  ],
+  "dam": ["đập nước", "con đập", "kè chắn nước"],
+  "delicatessen": [
+    "cửa hàng bán đồ ăn nhẹ",
+    "quầy hàng đặc sản",
+    "cửa hàng thực phẩm chế biến sẵn"
+  ],
+  "dentists office": ["phòng khám nha khoa", "phòng nha sĩ", "phòng khám răng"],
+  "department store": ["siêu thị", "cửa hàng bách hóa", "cửa hàng đa ngành"],
+  "desert road": ["đường sa mạc", "con đường sa mạc", "đường xuyên sa mạc"],
+  "dining car": ["toa xe ăn", "toa xe nhà hàng", "toa xe phục vụ ăn uống"],
+  "dining hall": ["phòng ăn", "nhà ăn", "căn tin"],
+  "dining room": ["phòng ăn", "phòng khách", "phòng dùng bữa"],
+  "discotheque": ["quán nhảy", "câu lạc bộ khiêu vũ", "nhà hàng khiêu vũ"],
+  "dock": ["bến tàu", "cảng", "tàu neo"],
+  "door elevator": ["thang máy cửa", "thang máy cửa trượt", "thang máy có cửa"],
+  "dorm room": ["phòng ký túc xá", "phòng ngủ tập thể", "phòng ở tập thể"],
+  "downtown": ["trung tâm thành phố", "khu vực trung tâm", "nội thành"],
+  "dressing room": ["phòng thay đồ", "phòng thử đồ", "phòng trang điểm"],
+  "driveway": ["lối lái xe", "đường dẫn vào", "lối vào nhà"],
+  "drugstore": ["hiệu thuốc", "cửa hàng thuốc", "nhà thuốc"],
+  "east asia temple": [
+    "chùa đông á",
+    "đền thờ đông á",
+    "công trình kiến trúc tôn giáo đông á"
+  ],
+  "electrical substation": ["trạm biến áp", "trạm điện", "trung tâm điện"],
+  "elevator lobby": [
+    "sảnh thang máy",
+    "lò sảnh thang máy",
+    "khu vực thang máy"
+  ],
+  "elevator shaft": ["hầm thang máy", "hầm ống thang máy", "giếng thang máy"],
+  "embassy": ["đại sứ quán", "lãnh sự quán", "phái bộ ngoại giao"],
+  "engine room": ["phòng máy", "phòng động cơ", "phòng máy móc"],
+  "entrance hall": ["sảnh chính", "sảnh vào", "lối vào chính"],
+  "establishment poolroom": [
+    "phòng chơi bi-a",
+    "cơ sở chơi bi-a",
+    "hội quán bi-a"
+  ],
+  "excavation": [
+    "công trình khai quật",
+    "công trình đào đất",
+    "khu vực đào đất"
+  ],
+  "exterior balcony": [
+    "ban công bên ngoài",
+    "ban công ngoại thất",
+    "ban công ngoài trời"
+  ],
+  "exterior covered bridge": [
+    "cầu che chắn bên ngoài",
+    "cầu mái che",
+    "cầu có mái che"
+  ],
+  "exterior gazebo": [
+    "chòi nghỉ bên ngoài",
+    "gazebo ngoài trời",
+    "chòi che nắng"
+  ],
+  "fabric store": ["cửa hàng vải", "shop vải", "cửa hiệu vải"],
+  "fairway": ["lối đi chính", "lối đi giữa", "lối đi fairway"],
+  "fan waterfall": ["thác nước quạt", "thác nước máy", "thác nước nhân tạo"],
+  "farm": ["trang trại", "nông trại", "vườn trại"],
+  "fastfood restaurant": [
+    "nhà hàng thức ăn nhanh",
+    "quán ăn nhanh",
+    "cửa hàng thức ăn nhanh"
+  ],
+  "field road": ["đường đồng ruộng", "đường ruộng", "đường cánh đồng"],
+  "fire escape": ["cầu thang thoát hiểm", "lối thoát hiểm", "cửa thoát hiểm"],
+  "fire station": ["trạm cứu hỏa", "sở cứu hỏa", "trạm chữa cháy"],
+  "fishpond": ["ao cá", "hồ cá", "vựa cá"],
+  "food court": ["khu ẩm thực", "khu ăn uống", "trung tâm ẩm thực"],
+  "football field": ["sân bóng đá", "sân cỏ", "sân bóng"],
+  "football stadium": ["sân vận động bóng đá", "sân bóng đá", "sân vận động"],
+  "forest path": ["đường mòn rừng", "con đường rừng", "lối đi rừng"],
+  "forest road": ["đường rừng", "đường trong rừng", "đường xuyên rừng"],
+  "formal garden": ["khu vườn chính thức", "vườn trang trọng", "vườn kiểu mẫu"],
+  "fountain": ["đài phun nước", "bể phun nước", "vòi phun nước"],
+  "frontseat car interior": [
+    "nội thất ghế trước xe hơi",
+    "nội thất xe ô tô ghế trước",
+    "ghế trước xe hơi"
+  ],
+  "galley": ["nhà bếp", "bếp tàu", "bếp ăn"],
+  "game room": ["phòng chơi game", "phòng giải trí", "phòng game"],
+  "garbage dump": ["bãi rác", "bãi thải", "chỗ đổ rác"],
+  "gas station": ["cửa hàng xăng dầu", "trạm xăng dầu", "bến xăng"],
+  "gift shop": ["cửa hàng quà tặng", "quầy lưu niệm", "shop quà lưu niệm"],
+  "glacier": ["sông băng", "băng hà", "cánh đồng băng"],
+  "golf course": ["sân golf", "khu sân golf", "sân tập golf"],
+  "grotto": ["hang động nhỏ", "hang động", "lỗ hang"],
+  "harbor": ["cảng", "bến cảng", "cảng biển"],
+  "hardware store": [
+    "cửa hàng dụng cụ",
+    "cửa hàng phần cứng",
+    "cửa hàng vật liệu xây dựng"
+  ],
+  "hayfield": ["đồng cỏ khô", "vườn cỏ khô", "ruộng cỏ khô"],
+  "heliport": ["sân bay trực thăng", "cảng trực thăng", "bến trực thăng"],
+  "herb garden": ["vườn thảo mộc", "vườn gia vị", "vườn rau thơm"],
+  "highway": ["xa lộ", "cao tốc", "đường cao tốc"],
+  "hill": ["đồi", "gò", "núi nhỏ"],
+  "hockey arena": [
+    "sân khúc côn cầu",
+    "sân đấu khúc côn cầu",
+    "sân vận động khúc côn cầu"
+  ],
+  "home dinette": ["phòng ăn gia đình", "khu vực ăn uống", "bàn ăn tại nhà"],
+  "home office": [
+    "văn phòng tại nhà",
+    "phòng làm việc tại nhà",
+    "không gian làm việc"
+  ],
+  "home poolroom": ["phòng chơi bi-a tại nhà", "phòng bi-a", "phòng giải trí"],
+  "home theater": [
+    "rạp chiếu phim gia đình",
+    "phòng chiếu phim tại nhà",
+    "hệ thống âm thanh gia đình"
+  ],
+  "hospital": ["bệnh viện", "viện y tế", "trung tâm y tế"],
+  "hospital room": ["phòng bệnh", "phòng bệnh viện", "phòng khám"],
+  "hot spring": ["suối nước nóng", "suối khoáng nóng", "nguồn nước nóng"],
+  "hotel room": ["phòng khách sạn", "phòng nghỉ", "phòng ở khách sạn"],
+  "house": ["ngôi nhà", "nhà ở", "căn nhà"],
+  "ice cream parlor": ["quán kem", "cửa hàng kem", "tiệm kem"],
+  "ice floe": ["tảng băng trôi", "băng trôi", "mảng băng"],
+  "ice shelf": ["tầng băng", "kệ băng", "băng kệ"],
+  "iceberg": ["núi băng", "băng sơn", "tảng băng khổng lồ"],
+  "igloo": ["lều băng", "nhà băng", "nhà tuyết"],
+  "indoor apse": [
+    "khu vực bán nguyệt trong nhà",
+    "chùa bán nguyệt trong nhà",
+    "nửa tròn trong nhà"
+  ],
+  "indoor badminton court": [
+    "sân cầu lông trong nhà",
+    "sân cầu lông mái che",
+    "sân cầu lông kín"
+  ],
+  "indoor basketball court": [
+    "sân bóng rổ trong nhà",
+    "sân bóng rổ mái che",
+    "sân bóng rổ kín"
+  ],
+  "indoor bazaar": ["chợ trong nhà", "chợ mái che", "chợ kín"],
+  "indoor bistro": [
+    "quán ăn nhỏ trong nhà",
+    "quán cà phê nhỏ trong nhà",
+    "bistro trong nhà"
+  ],
+  "indoor booth": ["gian hàng trong nhà", "gian hàng mái che", "gian hàng kín"],
+  "indoor bow window": [
+    "cửa sổ vòm trong nhà",
+    "cửa sổ cong trong nhà",
+    "cửa sổ vòm mái che"
+  ],
+  "indoor brewery": [
+    "nhà máy bia trong nhà",
+    "xưởng bia trong nhà",
+    "nhà máy bia kín"
+  ],
+  "indoor bus station": [
+    "bến xe buýt trong nhà",
+    "bến xe buýt mái che",
+    "bến xe buýt kín"
+  ],
+  "indoor casino": ["sòng bạc trong nhà", "sòng bạc mái che", "sòng bạc kín"],
+  "indoor cathedral": ["nhà thờ trong nhà", "nhà thờ mái che", "nhà thờ kín"],
+  "indoor cavern": [
+    "hang động trong nhà",
+    "hang động mái che",
+    "hang động kín"
+  ],
+  "indoor chicken coop": [
+    "chuồng gà trong nhà",
+    "chuồng gà mái che",
+    "chuồng gà kín"
+  ],
+  "indoor church": [
+    "nhà thờ trong nhà",
+    "nhà thờ nội thất",
+    "nhà thờ trong nhà"
+  ],
+  "indoor cloister": [
+    "hành lang kín trong nhà",
+    "tu viện trong nhà",
+    "hành lang kín nội thất"
+  ],
+  "indoor diner": [
+    "quán ăn trong nhà",
+    "quán ăn nội thất",
+    "quán ăn trong nhà"
+  ],
+  "indoor escalator": [
+    "thang cuốn trong nhà",
+    "thang cuốn nội thất",
+    "thang cuốn trong nhà"
+  ],
+  "indoor factory": [
+    "nhà máy trong nhà",
+    "nhà máy nội thất",
+    "nhà máy trong nhà"
+  ],
+  "indoor firing range": [
+    "sân bắn súng trong nhà",
+    "sân bắn súng nội thất",
+    "sân bắn súng trong nhà"
+  ],
+  "indoor flea market": [
+    "chợ trời trong nhà",
+    "chợ trời nội thất",
+    "chợ trời trong nhà"
+  ],
+  "indoor florist shop": [
+    "cửa hàng hoa trong nhà",
+    "cửa hàng hoa nội thất",
+    "cửa hàng hoa trong nhà"
+  ],
+  "indoor garage": ["nhà xe trong nhà", "nhà xe nội thất", "nhà xe trong nhà"],
+  "indoor general store": [
+    "cửa hàng tạp hóa trong nhà",
+    "cửa hàng tạp hóa nội thất",
+    "cửa hàng tạp hóa trong nhà"
+  ],
+  "indoor greenhouse": [
+    "nhà kính trong nhà",
+    "nhà kính nội thất",
+    "nhà kính trong nhà"
+  ],
+  "indoor gymnasium": [
+    "phòng tập thể dục trong nhà",
+    "phòng tập thể dục nội thất",
+    "phòng tập thể dục trong nhà"
+  ],
+  "indoor hangar": [
+    "hàng không trong nhà",
+    "hàng không nội thất",
+    "hàng không trong nhà"
+  ],
+  "indoor ice skating rink": [
+    "sân trượt băng trong nhà",
+    "sân trượt băng nội thất",
+    "sân trượt băng trong nhà"
+  ],
+  "indoor jacuzzi": [
+    "bồn tắm nước nóng trong nhà",
+    "bồn tắm nước nóng nội thất",
+    "bồn tắm nước nóng trong nhà"
+  ],
+  "indoor jail": ["nhà tù trong nhà", "nhà tù nội thất", "nhà tù trong nhà"],
+  "indoor kennel": [
+    "chuồng chó trong nhà",
+    "chuồng chó nội thất",
+    "chuồng chó trong nhà"
+  ],
+  "indoor library": [
+    "thư viện trong nhà",
+    "thư viện nội thất",
+    "thư viện trong nhà"
+  ],
+  "indoor market": ["chợ trong nhà", "chợ nội thất", "chợ trong nhà"],
+  "indoor mosque": [
+    "nhà thờ hồi giáo trong nhà",
+    "nhà thờ hồi giáo nội thất",
+    "nhà thờ hồi giáo trong nhà"
+  ],
+  "indoor movie theater": [
+    "rạp chiếu phim trong nhà",
+    "rạp phim trong nhà",
+    "rạp chiếu phim nội thất"
+  ],
+  "indoor museum": [
+    "bảo tàng trong nhà",
+    "bảo tàng nội thất",
+    "bảo tàng trong nhà"
+  ],
+  "indoor parking garage": [
+    "bãi đậu xe trong nhà",
+    "bãi đậu xe nội thất",
+    "bãi đậu xe trong nhà"
+  ],
+  "indoor pilothouse": [
+    "phòng lái trong nhà",
+    "phòng lái nội thất",
+    "phòng lái trong nhà"
+  ],
+  "indoor podium": [
+    "bục phát biểu trong nhà",
+    "bục phát biểu nội thất",
+    "bục phát biểu trong nhà"
+  ],
+  "indoor procenium theater": [
+    "rạp hát có khung sân khấu trong nhà",
+    "rạp hát có khung sân khấu nội thất",
+    "rạp hát có khung sân khấu trong nhà"
+  ],
+  "indoor pub": [
+    "quán rượu trong nhà",
+    "quán rượu nội thất",
+    "quán rượu trong nhà"
+  ],
+  "indoor seats theater": [
+    "rạp hát có chỗ ngồi trong nhà",
+    "rạp hát có chỗ ngồi nội thất",
+    "rạp hát có chỗ ngồi trong nhà"
+  ],
+  "indoor shopping mall": [
+    "trung tâm mua sắm trong nhà",
+    "trung tâm mua sắm nội thất",
+    "trung tâm mua sắm trong nhà"
+  ],
+  "indoor stage": [
+    "sân khấu trong nhà",
+    "sân khấu nội thất",
+    "sân khấu trong nhà"
+  ],
+  "indoor swimming pool": [
+    "hồ bơi trong nhà",
+    "hồ bơi nội thất",
+    "hồ bơi trong nhà"
+  ],
+  "indoor synagogue": [
+    "nhà hội giáo trong nhà",
+    "nhà hội giáo nội thất",
+    "nhà hội giáo trong nhà"
+  ],
+  "indoor tennis court": [
+    "sân quần vợt trong nhà",
+    "sân quần vợt nội thất",
+    "sân quần vợt trong nhà"
+  ],
+  "indoor volleyball court": [
+    "sân bóng chuyền trong nhà",
+    "sân bóng chuyền nội thất",
+    "sân bóng chuyền trong nhà"
+  ],
+  "indoor warehouse": [
+    "kho hàng trong nhà",
+    "kho hàng nội thất",
+    "kho hàng trong nhà"
+  ],
+  "indoor wrestling ring": [
+    "vòng đấu vật trong nhà",
+    "vòng đấu vật nội thất",
+    "vòng đấu vật trong nhà"
+  ],
+  "industrial area": ["khu công nghiệp", "khu công nghiệp", "khu sản xuất"],
+  "interior balcony": [
+    "ban công nội thất",
+    "ban công trong nhà",
+    "ban công trong nhà"
+  ],
+  "interior elevator": [
+    "thang máy nội thất",
+    "thang máy trong nhà",
+    "thang máy trong nhà"
+  ],
+  "islet": ["hòn đảo nhỏ", "hòn đảo nhỏ", "đảo nhỏ"],
+  "jail cell": ["phòng giam", "tù giam", "ô giam"],
+  "japanese garden": ["vườn nhật bản", "khu vườn nhật", "vườn kiểu nhật"],
+  "jewelry shop": ["cửa hàng trang sức", "tiệm kim hoàn", "cửa hàng trang sức"],
+  "junkyard": ["đống sắt vụn", "bãi phế liệu", "bãi chứa phế thải"],
+  "kasbah": ["pháo đài kasbah", "thành lũy kasbah", "khu phố cổ kasbah"],
+  "kindergarden classroom": [
+    "phòng học mẫu giáo",
+    "lớp học mầm non",
+    "phòng học trẻ em"
+  ],
+  "kitchen": ["bếp", "nhà bếp", "phòng bếp"],
+  "kitchenette": ["bếp nhỏ", "bếp phụ", "bếp mini"],
+  "lagoon": ["lagune", "hồ nước cạn", "vũng nước"],
+  "landfill": ["bãi rác", "làng rác", "khu chôn lấp rác"],
+  "landing deck": ["sân đỗ", "sân bay nhỏ", "sàn hạ cánh"],
+  "laundromat": [
+    "tiệm giặt là tự động",
+    "quầy giặt tự động",
+    "quầy giặt quần áo tự động"
+  ],
+  "lawn": ["thảm cỏ", "sân cỏ", "bãi cỏ"],
+  "lecture room": ["phòng giảng đường", "phòng hội trường", "phòng họp"],
+  "legislative chamber": [
+    "hội trường lập pháp",
+    "phòng họp quốc hội",
+    "buồng họp lập pháp"
+  ],
+  "lift bridge": ["cầu nâng", "cầu kéo", "cầu di động"],
+  "lighthouse": ["ngọn hải đăng", "đèn biển", "tháp hải đăng"],
+  "limousine interior": [
+    "nội thất xe limousine",
+    "khoang xe limousine",
+    "bên trong xe limousine"
+  ],
+  "living room": ["phòng khách", "phòng tiếp khách", "phòng sinh hoạt chung"],
+  "loading dock": [
+    "sân bãi bốc xếp",
+    "bến tàu bốc xếp",
+    "khu vực bốc xếp hàng hóa"
+  ],
+  "lobby": ["sảnh chính", "phòng chờ", "lối vào"],
+  "lock chamber": ["buồng khóa", "hộp khóa", "phòng khóa"],
+  "locker room": ["phòng thay đồ", "phòng tủ khóa", "phòng giữ đồ"],
+  "mansion": ["biệt thự", "cung điện", "nhà lớn"],
+  "manufactured home": ["nhà lắp ghép", "nhà di động", "nhà tiền chế"],
+  "marsh": ["vũng lầy", "đầm lầy", "khu đầm lầy"],
+  "martial arts gym": [
+    "phòng tập võ thuật",
+    "trung tâm võ thuật",
+    "câu lạc bộ võ thuật"
+  ],
+  "mausoleum": ["lăng mộ", "mộ phần", "lăng"],
+  "medina": ["medina", "thành phố cổ", "khu phố cổ"],
+  "mezzanine": ["lửng", "tầng lửng", "tầng trung gian"],
+  "motel": ["khách sạn ven đường", "khách sạn bình dân", "khách sạn nghỉ đêm"],
+  "mountain": ["núi", "dãy núi", "núi non"],
+  "mountain path": ["đường mòn núi", "con đường núi", "lối đi trên núi"],
+  "mountain snowy": ["núi tuyết", "núi phủ tuyết", "núi trắng tuyết"],
+  "music store": ["cửa hàng nhạc cụ", "cửa hàng âm nhạc", "cửa hàng băng đĩa"],
+  "music studio": ["phòng thu âm", "studio âm nhạc", "phòng thu"],
+  "natural canal": ["kênh đào tự nhiên", "sông đào tự nhiên", "kênh tự nhiên"],
+  "natural history museum": [
+    "bảo tàng lịch sử tự nhiên",
+    "bảo tàng thiên nhiên",
+    "bảo tàng sinh học"
+  ],
+  "natural lake": ["hồ tự nhiên", "hồ nước tự nhiên", "hồ"],
+  "needleleaf forest": ["rừng lá kim", "rừng thông", "rừng cây lá kim"],
+  "nursery": ["vườn ươm", "nhà trẻ", "vườn cây giống"],
+  "nursing home": [
+    "nhà dưỡng lão",
+    "trung tâm chăm sóc người già",
+    "viện dưỡng lão"
+  ],
+  "oast house": ["nhà sấy bia", "nhà lò sấy hops", "nhà sấy lúa mạch"],
+  "ocean": ["đại dương", "biển cả", "thái bình dương"],
+  "ocean deep underwater": ["thẳm sâu đại dương", "biển sâu", "dưới đáy biển"],
+  "office": ["văn phòng", "phòng làm việc", "công sở"],
+  "office building": [
+    "tòa nhà văn phòng",
+    "cao ốc văn phòng",
+    "tòa nhà làm việc"
+  ],
+  "office cubicle": ["phòng làm việc riêng", "bó", "khoang làm việc"],
+  "office cubicles": [
+    "các phòng làm việc riêng",
+    "các bó",
+    "các khoang làm việc"
+  ],
+  "oilrig": ["giàn khoan dầu", "cầu khoan dầu", "giàn khai thác dầu"],
+  "operating room": ["phòng mổ", "phòng phẫu thuật", "phòng giải phẫu"],
+  "orchard": ["vườn cây ăn quả", "vườn trái cây", "vườn cây"],
+  "orchestra pit": ["hố dàn nhạc", "hố nhạc", "hố dàn nhạc giao hưởng"],
+  "outdoor apartment building": [
+    "tòa nhà chung cư ngoài trời",
+    "chung cư ngoài trời",
+    "tòa nhà ở ngoài trời"
+  ],
+  "outdoor arrival gate": [
+    "cổng đến ngoài trời",
+    "cổng đón ngoài trời",
+    "cổng đến sân bay ngoài trời"
+  ],
+  "outdoor athletic field": [
+    "sân vận động ngoài trời",
+    "sân thể thao ngoài trời",
+    "sân tập thể dục ngoài trời"
+  ],
+  "outdoor basketball court": [
+    "sân bóng rổ ngoài trời",
+    "sân chơi bóng rổ ngoài trời",
+    "sân bóng rổ"
+  ],
+  "outdoor bazaar": ["chợ trời", "chợ ngoài trời", "chợ phiên"],
+  "outdoor bow window": [
+    "cửa sổ cong ngoài trời",
+    "cửa sổ vòm ngoài trời",
+    "cửa sổ hình cung ngoài trời"
+  ],
+  "outdoor cabin": [
+    "nhà gỗ ngoài trời",
+    "căn nhà gỗ ngoài trời",
+    "căn lều ngoài trời"
+  ],
+  "outdoor cathedral": [
+    "nhà thờ ngoài trời",
+    "nhà thờ lộ thiên",
+    "nhà thờ kiến trúc mở"
+  ],
+  "outdoor chicken coop": [
+    "chuồng gà ngoài trời",
+    "chuồng gà sân vườn",
+    "chuồng gà lộ thiên"
+  ],
+  "outdoor church": [
+    "nhà thờ ngoài trời",
+    "nhà thờ lộ thiên",
+    "nhà thờ kiến trúc mở"
+  ],
+  "outdoor control tower": [
+    "tháp điều khiển ngoài trời",
+    "tháp kiểm soát sân bay ngoài trời",
+    "tháp điều khiển lộ thiên"
+  ],
+  "outdoor diner": [
+    "quán ăn ngoài trời",
+    "nhà hàng ngoài trời",
+    "quán ăn sân vườn"
+  ],
+  "outdoor doorway": [
+    "cửa ra vào ngoài trời",
+    "cổng vào ngoài trời",
+    "lối ra vào ngoài trời"
+  ],
+  "outdoor driving range": [
+    "sân tập lái xe ngoài trời",
+    "sân tập golf ngoài trời",
+    "sân tập lái lộ thiên"
+  ],
+  "outdoor garage": [
+    "nhà xe ngoài trời",
+    "garage ngoài trời",
+    "chỗ để xe ngoài trời"
+  ],
+  "outdoor general store": [
+    "cửa hàng tạp hóa ngoài trời",
+    "cửa hàng bách hóa ngoài trời",
+    "cửa hàng tổng hợp ngoài trời"
+  ],
+  "outdoor greenhouse": [
+    "nhà kính ngoài trời",
+    "vườn ươm ngoài trời",
+    "nhà kính lộ thiên"
+  ],
+  "outdoor hangar": [
+    "nhà chứa máy bay ngoài trời",
+    "hangar ngoài trời",
+    "nhà chứa máy bay lộ thiên"
+  ],
+  "outdoor hot tub": [
+    "bồn tắm nóng ngoài trời",
+    "bồn tắm nước nóng ngoài trời",
+    "bồn tắm jacuzzi ngoài trời"
+  ],
+  "outdoor hotel": [
+    "khách sạn ngoài trời",
+    "khách sạn lộ thiên",
+    "khu nghỉ dưỡng ngoài trời"
+  ],
+  "outdoor hunting lodge": [
+    "nhà nghỉ săn bắn ngoài trời",
+    "nhà nghỉ săn bắn lộ thiên",
+    "lodge săn bắn ngoài trời"
+  ],
+  "outdoor ice skating rink": [
+    "sân trượt băng ngoài trời",
+    "sân băng ngoài trời",
+    "sân trượt băng lộ thiên"
+  ],
+  "outdoor inn": [
+    "quán trọ ngoài trời",
+    "nhà nghỉ ngoài trời",
+    "quán trọ lộ thiên"
+  ],
+  "outdoor kennel": [
+    "chuồng chó ngoài trời",
+    "chuồng chó sân vườn",
+    "chuồng chó lộ thiên"
+  ],
+  "outdoor labyrinth": [
+    "mê cung ngoài trời",
+    "mê cung lộ thiên",
+    "vườn mê cung ngoài trời"
+  ],
+  "outdoor library": [
+    "thư viện ngoài trời",
+    "thư viện lộ thiên",
+    "thư viện sân vườn"
+  ],
+  "outdoor lido deck": [
+    "sân tắm nắng ngoài trời",
+    "sân tắm nắng cạnh hồ bơi",
+    "sân tắm nắng lộ thiên"
+  ],
+  "outdoor market": ["chợ ngoài trời", "chợ lộ thiên", "chợ trời"],
+  "outdoor monastery": [
+    "tu viện ngoài trời",
+    "tu viện lộ thiên",
+    "tu viện vườn"
+  ],
+  "outdoor mosque": [
+    "nhà thờ hồi giáo ngoài trời",
+    "nhà thờ hồi giáo lộ thiên",
+    "thánh đường hồi giáo ngoài trời"
+  ],
+  "outdoor museum": [
+    "bảo tàng ngoài trời",
+    "bảo tàng lộ thiên",
+    "công viên bảo tàng"
+  ],
+  "outdoor nuclear power plant": [
+    "nhà máy điện hạt nhân ngoài trời",
+    "nhà máy điện hạt nhân lộ thiên",
+    "nhà máy điện nguyên tử ngoài trời"
+  ],
+  "outdoor observatory": [
+    "đài quan sát ngoài trời",
+    "đài quan sát lộ thiên",
+    "trạm quan sát thiên văn ngoài trời"
+  ],
+  "outdoor oil refinery": [
+    "nhà máy lọc dầu ngoài trời",
+    "nhà máy lọc dầu lộ thiên",
+    "khu lọc dầu ngoài trời"
+  ],
+  "outdoor outhouse": [
+    "nhà vệ sinh ngoài trời",
+    "nhà xí ngoài trời",
+    "nhà tiêu ngoài trời"
+  ],
+  "outdoor parking garage": [
+    "bãi đậu xe ngoài trời",
+    "bãi đậu xe lộ thiên",
+    "garage đậu xe ngoài trời"
+  ],
+  "outdoor planetarium": [
+    "thiên văn đài ngoài trời",
+    "bảo tàng thiên văn ngoài trời",
+    "trung tâm thiên văn ngoài trời"
+  ],
+  "outdoor podium": [
+    "bục giảng ngoài trời",
+    "bục phát biểu ngoài trời",
+    "bục sân khấu ngoài trời"
+  ],
+  "outdoor power plant": [
+    "nhà máy điện ngoài trời",
+    "nhà máy điện lộ thiên",
+    "trạm phát điện ngoài trời"
+  ],
+  "outdoor stage": [
+    "sân khấu ngoài trời",
+    "sân khấu lộ thiên",
+    "sân khấu vườn"
+  ],
+  "outdoor swimming pool": [
+    "hồ bơi ngoài trời",
+    "hồ bơi lộ thiên",
+    "bể bơi ngoài trời"
+  ],
+  "outdoor synagogue": [
+    "nhà hội đường do thái ngoài trời",
+    "nhà hội đường do thái lộ thiên",
+    "thánh đường do thái ngoài trời"
+  ],
+  "outdoor tennis court": [
+    "sân tennis ngoài trời",
+    "sân tennis lộ thiên",
+    "khu quần vợt ngoài trời"
+  ],
+  "outdoor tent": ["lều ngoài trời", "lều cắm trại", "lều du lịch"],
+  "outdoor track": [
+    "đường chạy ngoài trời",
+    "đường chạy lộ thiên",
+    "sân chạy ngoài trời"
+  ],
+  "outdoor volleyball court": [
+    "sân bóng chuyền ngoài trời",
+    "sân bóng chuyền lộ thiên",
+    "khu bóng chuyền ngoài trời"
+  ],
+  "pagoda": ["chùa phật", "chùa tháp", "tháp phật giáo"],
+  "palace": ["cung điện", "lâu đài", "hoàng cung"],
+  "pantry": ["tủ đựng thức ăn", "phòng đựng thức ăn", "bếp phụ"],
+  "park": ["công viên", "vườn hoa", "khu vườn"],
+  "parking lot": ["bãi đậu xe", "khu đậu xe", "chỗ đậu xe"],
+  "parlor": ["phòng khách", "phòng tiếp khách", "phòng chờ"],
+  "pasture": ["đồng cỏ", "bãi chăn thả", "vùng đồng cỏ"],
+  "patio": ["sân hiên", "hàng hiên", "nền sân"],
+  "pavilion": ["lều", "lều nghỉ", "nhà chòi"],
+  "performance arena": ["sân khấu biểu diễn", "sân đấu", "khu vực trình diễn"],
+  "pet shop": ["cửa hàng thú cưng", "tiệm thú cưng", "shop thú cưng"],
+  "pharmacy": ["hiệu thuốc", "nhà thuốc", "tiệm thuốc"],
+  "phone booth": ["bốt điện thoại", "phòng điện thoại", "kios điện thoại"],
+  "physics laboratory": [
+    "phòng thí nghiệm vật lý",
+    "phòng thực hành vật lý",
+    "phòng nghiên cứu vật lý"
+  ],
+  "picnic area": ["khu vực dã ngoại", "vùng picnic", "khu vực cắm trại"],
+  "pier": ["bến tàu", "cầu cảng", "bến du thuyền"],
+  "pizzeria": ["quán pizza", "nhà hàng pizza", "tiệm pizza"],
+  "platform subway station": [
+    "bến tàu điện ngầm",
+    "bến tàu ngầm",
+    "ga tàu điện ngầm"
+  ],
+  "platform train station": ["bến tàu lửa", "bến tàu hỏa", "ga tàu hỏa"],
+  "playground": ["sân chơi", "khu vui chơi", "công viên vui chơi"],
+  "playroom": ["phòng chơi", "phòng giải trí", "phòng vui chơi"],
+  "plaza": ["quảng trường", "khu vực công cộng", "nơi công cộng"],
+  "plunge waterfall": [
+    "thác nước đổ",
+    "thác nước dốc đứng",
+    "thác nước hùng vĩ"
+  ],
+  "pond": ["ao", "hồ nhỏ", "vũng nước"],
+  "porch": ["hiên", "bồn hoa", "sân hiên"],
+  "promenade": ["đường dạo bộ", "con đường đi dạo", "lối đi bộ"],
+  "promenade deck": ["bến dạo bộ", "boong dạo bộ", "sàn dạo bộ"],
+  "public atrium": ["sảnh công cộng", "lối vào chung", "không gian mở"],
+  "pulpit": ["bục giảng", "bục thuyết trình", "bục phát biểu"],
+  "putting green": ["sân tập golf", "sân putting", "sân cỏ nhân tạo"],
+  "racecourse": ["sân đua ngựa", "đường đua ngựa", "sân thi đấu ngựa"],
+  "raceway": ["đường đua", "làn đua", "kênh đua"],
+  "raft": ["bè", "thuyền bè", "bè gỗ"],
+  "railroad track": ["đường ray xe lửa", "đường sắt", "tuyến đường sắt"],
+  "rainforest": ["rừng mưa", "rừng nhiệt đới", "rừng ẩm"],
+  "reception": ["lễ tân", "phòng tiếp tân", "bộ phận tiếp khách"],
+  "recreation room": [
+    "phòng giải trí",
+    "phòng vui chơi giải trí",
+    "phòng thư giãn"
+  ],
+  "repair shop": ["cửa hàng sửa chữa", "xưởng sửa chữa", "chỗ sửa chữa"],
+  "residential neighborhood": ["khu dân cư", "khu phố ở", "khu nhà ở"],
+  "restaurant": ["nhà hàng", "quán ăn", "nơi ăn uống"],
+  "restaurant kitchen": ["bếp nhà hàng", "phòng bếp", "khu vực nấu ăn"],
+  "restaurant patio": [
+    "sân hiên nhà hàng",
+    "khu vực ngoài trời nhà hàng",
+    "sân vườn nhà hàng"
+  ],
+  "rice paddy": ["ruộng lúa", "thửa ruộng", "cánh đồng lúa"],
+  "riding arena": [
+    "sân tập cưỡi ngựa",
+    "sân thi đấu cưỡi ngựa",
+    "khu vực tập luyện cưỡi ngựa"
+  ],
+  "river": ["sông", "dòng sông", "suối"],
+  "rock arch": ["cổng đá tự nhiên", "vòm đá", "cổng trời"],
+  "rodeo arena": ["sân rodeo", "sân đấu bò tót", "sân thi đấu rodeo"],
+  "roof garden": ["vườn trên mái", "vườn sân thượng", "vườn thượng uyển"],
+  "rope bridge": ["cầu dây", "cầu treo", "cầu thừng"],
+  "ruin": ["di tích", "phế tích", "xác nhà"],
+  "runway": ["đường băng", "đường cất hạ cánh", "sân bay"],
+  "sand desert": ["sa mạc cát", "sa mạc", "bãi sa mạc"],
+  "sandbar": ["bãi cát", "cồn cát", "bãi chắn cát"],
+  "sandbox": ["hộp cát", "chỗ chơi cát", "vườn cát"],
+  "sauna": ["phòng xông hơi khô", "xông hơi khô", "phòng tắm hơi khô"],
+  "schoolhouse": ["ngôi trường", "trường học", "nhà trường"],
+  "science museum": [
+    "bảo tàng khoa học",
+    "viện bảo tàng khoa học",
+    "nhà khoa học"
+  ],
+  "sea cliff": ["vách đá biển", "bờ biển đá", "vách đá ven biển"],
+  "server room": ["phòng máy chủ", "phòng server", "trung tâm dữ liệu"],
+  "shed": ["chòi", "nhà kho nhỏ", "phòng phụ"],
+  "shoe shop": ["cửa hàng giày", "tiệm giày", "quầy giày"],
+  "shop bakery": ["cửa hàng bánh mì", "tiệm bánh", "bánh mỳ"],
+  "shopfront": [
+    "mặt tiền cửa hàng",
+    "phía trước cửa hàng",
+    "tầng trệt cửa hàng"
+  ],
+  "shower": ["vòi tắm", "phòng tắm", "vòi hoa sen"],
+  "skatepark": ["công viên trượt ván", "khu trượt ván", "sân trượt ván"],
+  "ski lodge": [
+    "nhà nghỉ trượt tuyết",
+    "lodge trượt tuyết",
+    "nhà nghỉ trượt tuyết núi"
+  ],
+  "ski resort": [
+    "khu nghỉ dưỡng trượt tuyết",
+    "resort trượt tuyết",
+    "khu trượt tuyết"
+  ],
+  "ski slope": ["đường trượt tuyết", "sườn dốc trượt tuyết", "đồi trượt tuyết"],
+  "sky": ["bầu trời", "không trung", "thánh đường"],
+  "skyscraper": ["tòa nhà chọc trời", "nhà cao tầng", "nhà chọc trời"],
+  "slum": ["khu ổ chuột", "vùng nghèo khó", "khu vực ổ chuột"],
+  "snowfield": ["cánh đồng tuyết", "vùng tuyết phủ", "bãi tuyết"],
+  "soccer field": ["sân bóng đá", "sân cỏ", "sân bóng"],
+  "soccer stadium": ["sân vận động bóng đá", "sân bóng đá", "sân vận động"],
+  "south asia temple": [
+    "chùa nam á",
+    "đền thờ nam á",
+    "công trình tôn giáo nam á"
+  ],
+  "squash court": ["sân cầu lông", "sân squash", "sân bóng cầu"],
+  "stable": ["chuồng ngựa", "chuồng trại", "chuồng"],
+  "staircase": ["cầu thang", "bậc thang", "cầu thang bộ"],
+  "storage room": ["phòng lưu trữ", "kho lưu trữ", "phòng kho"],
+  "street": ["con đường", "phố", "đường phố"],
+  "subway interior": [
+    "nội thất tàu điện ngầm",
+    "bên trong tàu điện ngầm",
+    "không gian tàu điện ngầm"
+  ],
+  "supermarket": ["siêu thị", "chợ bách hóa", "cửa hàng bách hóa"],
+  "sushi bar": ["quán sushi", "quán ăn nhật bản", "quán ăn sushi"],
+  "swamp": ["đầm lầy", "vùng đất ngập nước", "ao đầm"],
+  "swimming hole": ["hồ bơi tự nhiên", "nơi bơi lội", "ao bơi"],
+  "television room": ["phòng truyền hình", "phòng xem tivi", "phòng khách"],
+  "television studio": [
+    "studio truyền hình",
+    "phòng thu truyền hình",
+    "xưởng phim truyền hình"
+  ],
+  "thriftshop": [
+    "cửa hàng đồ cũ",
+    "cửa hàng thanh lý",
+    "cửa hàng đồ secondhand"
+  ],
+  "throne room": ["phòng ngai vàng", "phòng vua", "phòng chính"],
+  "ticket booth": ["phòng bán vé", "quầy vé", "lều vé"],
+  "toll plaza": [
+    "trạm thu phí",
+    "trạm thu phí đường cao tốc",
+    "trạm thu phí đường bộ"
+  ],
+  "topiary garden": [
+    "vườn cây cảnh",
+    "vườn cây tạo hình",
+    "vườn cây nghệ thuật"
+  ],
+  "tower": ["tháp", "tòa tháp", "ngọn tháp"],
+  "toyshop": ["cửa hàng đồ chơi", "shop đồ chơi", "cửa hàng trẻ em"],
+  "train interior": [
+    "nội thất tàu hỏa",
+    "không gian bên trong tàu hỏa",
+    "khoang tàu hỏa"
+  ],
+  "train railway": ["đường ray tàu hỏa", "đường sắt", "tuyến đường sắt"],
+  "tree farm": ["trang trại cây", "vườn ươm cây", "nơi trồng cây"],
+  "tree house": ["nhà trên cây", "căn nhà trên cây", "lều trên cây"],
+  "trench": ["hào", "hố chiến hào", "rãnh"],
+  "tundra": ["tundra", "đồng bằng băng giá", "vùng đất băng giá"],
+  "urban canal": ["kênh đô thị", "kênh rạch thành phố", "kênh nội thành"],
+  "utility room": ["phòng tiện ích", "phòng dụng cụ", "phòng đa năng"],
+  "valley": ["thung lũng", "hẻm vực", "vũng sâu"],
+  "van interior": ["nội thất xe tải", "nội thất xe van", "bên trong xe van"],
+  "vegetable garden": ["vườn rau", "vườn rau củ", "khu vườn rau"],
+  "vegetation desert": [
+    "sa mạc thực vật",
+    "sa mạc khô cằn",
+    "vùng đất cằn cỗi"
+  ],
+  "vehicle dinette": [
+    "bàn ăn xe",
+    "bàn ăn trong xe",
+    "khu vực ăn uống trong xe"
+  ],
+  "veranda": ["hiên", "ban công", "chỗ ngồi ngoài trời"],
+  "veterinarians office": [
+    "phòng khám thú y",
+    "bệnh viện thú y",
+    "phòng khám bác sĩ thú y"
+  ],
+  "viaduct": ["cầu cạn", "cầu vượt", "cầu dẫn"],
+  "videostore": ["cửa hàng băng đĩa", "cửa hàng video", "cửa hàng đĩa phim"],
+  "village": ["làng", "xóm", "buôn"],
+  "vineyard": ["vườn nho", "nông trại nho", "vùng trồng nho"],
+  "volcano": ["núi lửa", "núi phun lửa", "núi hoạt động"],
+  "waiting room": ["phòng chờ", "phòng đợi", "khu vực chờ"],
+  "water moat": [
+    "hồ nước bao quanh",
+    "rãnh nước bao quanh",
+    "kênh nước xung quanh"
+  ],
+  "water park": ["công viên nước", "khu vui chơi nước", "khu giải trí nước"],
+  "water tower": ["tháp nước", "bồn nước", "bể chứa nước"],
+  "waterfall": ["thác nước", "thác", "bãi thác"],
+  "watering hole": ["vũng nước", "hồ nước nhỏ", "nơi uống nước"],
+  "wave": ["sóng", "làn sóng", "con sóng"],
+  "wet bar": ["quầy bar ướt", "quầy bar ẩm ướt", "quầy bar nước"],
+  "wheat field": ["cánh đồng lúa mì", "đồng lúa mì", "ruộng lúa mì"],
+  "wild field": ["cánh đồng hoang dã", "đồng hoang", "ruộng hoang"],
+  "wind farm": ["trang trại gió", "nông trại gió", "vườn gió"],
+  "windmill": ["cối xay gió", "cối gió", "máy xay gió"],
+  "yard": ["sân", "vườn nhà", "khu vườn"],
+  "youth hostel": [
+    "nhà nghỉ thanh niên",
+    "ký túc xá thanh niên",
+    "nhà trọ sinh viên"
+  ],
+  "zen garden": ["vườn thiền", "vườn nhật bản", "vườn thiền nhật"],
+  "flying field": ["cánh đồng bay", "sân bay nhỏ", "đồng bay"],
+  "landing field": ["sân đất", "sân bay nhỏ", "đồng đất"],
+  "field": ["cánh đồng", "đồng", "ruộng"],
+  "resort": ["khu nghỉ dưỡng", "khu du lịch", "khu nghỉ mát"],
+  "sign of the zodiac": [
+    "cung hoàng đạo",
+    "dấu hiệu cung hoàng đạo",
+    "biểu tượng cung hoàng đạo"
+  ],
+  "sign": ["biển báo", "dấu hiệu", "tín hiệu"],
+  "theatre": ["nhà hát", "rạp hát", "sân khấu"],
+  "planetary house": [
+    "nhà cung hoàng đạo",
+    "cung hoàng đạo",
+    "ngôi nhà của các sao"
+  ],
+  "theater": ["nhà hát", "rạp hát", "sân khấu"],
+  "star sign": [
+    "cung hoàng đạo",
+    "dấu hiệu cung hoàng đạo",
+    "biểu tượng cung hoàng đạo"
+  ],
+  "greenhouse": ["nhà kính", "nhà mát", "vườn kính"],
+  "glasshouse": ["nhà kính", "nhà mát", "vườn kính"],
+  "eating house": ["quán ăn", "nhà hàng", "chỗ ăn"],
+  "eatery": ["quán ăn", "nhà hàng", "nơi ăn uống"],
+  "eating place": ["nơi ăn uống", "chỗ ăn", "quán ăn"],
+  "school": ["trường học", "nhà trường", "nơi học tập"],
+  "falls": ["thác nước", "thác", "dòng thác"]
+}
