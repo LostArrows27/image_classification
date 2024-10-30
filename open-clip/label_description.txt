@@ -1,0 +1,48 @@
+# location_description = tokenizer([
+#      f"This image depicts a typical {location} scene"
+#     for location in location_labels
+# ])
+
+
+# location_description = tokenizer([
+#     f"This image primarily depicts the {location}, focusing on its unique landscape, architecture, and surroundings, irrespective of any ongoing activities."
+#     for location in location_labels
+# ])
+
+
+# location_description = tokenizer([
+#     f"The main focus of this image is the physical characteristics of {location}."
+#     for location in location_labels
+# ])
+
+# location_description = tokenizer([
+#     f"{location}"
+#     for location in location_labels
+# ])
+
+# location_description = tokenizer([
+#     f"This image captures the distinctive elements of {location}, regardless of any human presence or actions."
+#     for location in location_labels
+# ])
+
+# location_description = tokenizer([
+#     f"This image captures the essence of {location}, including the landscape, human presence, and common activities that define this place."
+#     for location in location_labels
+# ])
+
+# location_description = tokenizer([
+#     f"Mainly depicting {location}, this image uses human presence and activities as secondary clues to identify the place more accurately."
+#     for location in location_labels
+# ])
+
+# location_description = tokenizer([
+#     f"If people are present, this image of {location} is classified based on human activities, interactions, and objects around. Otherwise, the classification relies on the characteristics of the location itself."
+#     for location in location_labels
+# ])
+
+# location_description = tokenizer([
+#     f"This image primarily depicts {location}, focusing on its landscape, architecture, and distinctive features. "
+#     f"If people are present, the classification considers human activities, interactions, and objects as additional clues. "
+#     f"Otherwise, it relies on the unique characteristics of the location itself."
+#     for location in location_labels
+# ])
